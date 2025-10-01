@@ -25,4 +25,3 @@ class profile::cron::job_script (
     },
   }
 }
-
