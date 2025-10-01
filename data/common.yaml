@@ -1,0 +1,1 @@
+profile::cron::job_script::log_path: '/var/log/job_script.log'
